@@ -1,2 +1,2 @@
 # For-AIML-Bootstrapping-Intro
-Demo of bootstrapping
+This repository serves as a very simple demo of bootstrapping and AdaBoost for in-class presentation.
